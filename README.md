@@ -1,5 +1,7 @@
 # Nexus Dashboard
 
+**Live Demo** : [Nexus Dashboard](https://nexus-dashboard-am.vercel.app)
+
 A full-stack general dashboard app with real user authentication, task management, and analytics.
 
 **Stack:** React + Vite · Node.js + Express · MongoDB Atlas · JWT
